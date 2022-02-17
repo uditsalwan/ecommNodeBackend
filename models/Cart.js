@@ -15,7 +15,7 @@ const Address = mongoose.Schema({
 
 const OrderItemSchema = mongoose.Schema({
     orderItemID: String,
-    product: Product,
+    product: ProductSchema,
     quantity: Number,
     priceperItem: Number
 });
@@ -30,7 +30,7 @@ const OrderSchema = mongoose.Schema({
     orderID: String,
     OrderItems: [OrderItemSchema],
     dateCreated: {type: Date, default: Date.now},
-    shippingAddress: Address,
+    shippingAddress: AddressSchema,
     totalPrice:Number,
     orderStatus: String,
     paymentInfo: String,
