@@ -1,0 +1,336 @@
+{
+    "topCategories": [
+      {
+        "id": "cat_tv",
+        "title": "TV",
+        "imageURL": "images/cat_tv.png",
+        "updatedAt": "2022-02-13T15:45:02.275Z"
+      },
+      {
+        "id": "cat_ref",
+        "title": "Refrigerator",
+        "imageURL": "images/cat_ref.png",
+        "updatedAt": "2022-02-13T15:45:02.275Z"
+      },
+      {
+        "id": "cat_ac",
+        "title": "Air Conditioner",
+        "imageURL": "images/cat_ac.png",
+        "updatedAt": "2022-02-13T15:45:02.275Z"
+      },
+      {
+        "id": "cat_airp",
+        "title": "Air Purifier",
+        "imageURL": "images/cat_airp.png",
+        "updatedAt": "2022-02-13T15:45:02.275Z"
+      },
+      {
+        "id": "cat_wash",
+        "title": "Washing Machine",
+        "imageURL": "images/cat_wash.png",
+        "updatedAt": "2022-02-13T15:45:02.275Z"
+      }
+    ],
+    "productBanner": [
+      {
+        "id": 1,
+        "imageURL": "",
+        "productID": "prod_1"
+      },
+      {
+        "id": 2,
+        "imageURL": "",
+        "productID": "prod_2"
+      }
+    ],
+    "offers": [
+      {
+        "id": "off_1",
+        "description": "50% off on TV",
+        "imageURL": "",
+        "updatedAt": "2022-02-13T15:45:02.275Z",
+        "categoryID": "cat_tv"
+      },
+      {
+        "id": "off_2",
+        "description": "5% off on AC",
+        "imageURL": "",
+        "updatedAt": "2022-02-13T15:45:02.275Z",
+        "categoryID": "cat_ac"
+      },
+      {
+        "id": "off_3",
+        "description": "Rs 1000 off on Washing Machine",
+        "imageURL": "",
+        "updatedAt": "2022-02-13T15:45:02.275Z",
+        "categoryID": "cat_wash"
+      }
+    ],
+    "topSelling": [
+      {
+        "title": "TV",
+        "products": [
+          {
+            "id": "tv_1",
+            "name": "4K TV",
+            "price": 100000,
+            "salePrice": 0,
+            "stock": 100,
+            "images": [
+              {
+                "id": "",
+                "imageURL": ""
+              },
+              {
+                "id": "",
+                "imageURL": ""
+              }
+            ]
+          },
+          {
+            "id": "tv_2",
+            "name": "Ultra 4K TV",
+            "price": 150000,
+            "salePrice": 0,
+            "stock": 100,
+            "images": [
+              {
+                "id": "",
+                "imageURL": ""
+              },
+              {
+                "id": "",
+                "imageURL": ""
+              }
+            ]
+          },
+          {
+            "id": "tv_3",
+            "name": "HD TV",
+            "price": 80000,
+            "salePrice": 0,
+            "stock": 100,
+            "images": [
+              {
+                "id": "",
+                "imageURL": ""
+              },
+              {
+                "id": "",
+                "imageURL": ""
+              }
+            ]
+          },
+          {
+            "id": "tv_4",
+            "name": "4K Smart TV",
+            "price": 170000,
+            "salePrice": 0,
+            "stock": 100,
+            "images": [
+              {
+                "id": "",
+                "imageURL": ""
+              },
+              {
+                "id": "",
+                "imageURL": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Refrigerator",
+        "products": [
+          {
+            "id": "",
+            "name": "",
+            "price": 0,
+            "salePrice": 0,
+            "stock": 0,
+            "images": [
+              {
+                "id": "",
+                "imageURL": ""
+              },
+              {
+                "id": "",
+                "imageURL": ""
+              }
+            ]
+          },
+          {
+            "id": "",
+            "name": "",
+            "price": 0,
+            "salePrice": 0,
+            "stock": 0,
+            "images": [
+              {
+                "id": "",
+                "imageURL": ""
+              },
+              {
+                "id": "",
+                "imageURL": ""
+              }
+            ]
+          },
+          {
+            "id": "",
+            "name": "",
+            "price": 0,
+            "salePrice": 0,
+            "stock": 0,
+            "images": []
+          },
+          {
+            "id": "",
+            "name": "",
+            "price": 0,
+            "salePrice": 0,
+            "stock": 0,
+            "images": [
+              {
+                "id": "",
+                "imageURL": ""
+              },
+              {
+                "id": "",
+                "imageURL": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Air Conditioner",
+        "products": [
+          {
+            "id": "",
+            "name": "",
+            "price": 0,
+            "salePrice": 0,
+            "stock": 0,
+            "images": [
+              {
+                "id": "",
+                "imageURL": ""
+              },
+              {
+                "id": "",
+                "imageURL": ""
+              }
+            ]
+          },
+          {
+            "id": "",
+            "name": "",
+            "price": 0,
+            "salePrice": 0,
+            "stock": 0,
+            "images": [
+              {
+                "id": "",
+                "imageURL": ""
+              },
+              {
+                "id": "",
+                "imageURL": ""
+              }
+            ]
+          },
+          {
+            "id": "",
+            "name": "",
+            "price": 0,
+            "salePrice": 0,
+            "stock": 0,
+            "images": []
+          },
+          {
+            "id": "",
+            "name": "",
+            "price": 0,
+            "salePrice": 0,
+            "stock": 0,
+            "images": [
+              {
+                "id": "",
+                "imageURL": ""
+              },
+              {
+                "id": "",
+                "imageURL": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Air Purifier",
+        "products": [
+          {
+            "id": "",
+            "name": "",
+            "price": 0,
+            "salePrice": 0,
+            "stock": 0,
+            "images": [
+              {
+                "id": "",
+                "imageURL": ""
+              },
+              {
+                "id": "",
+                "imageURL": ""
+              }
+            ]
+          },
+          {
+            "id": "",
+            "name": "",
+            "price": 0,
+            "salePrice": 0,
+            "stock": 0,
+            "images": [
+              {
+                "id": "",
+                "imageURL": ""
+              },
+              {
+                "id": "",
+                "imageURL": ""
+              }
+            ]
+          },
+          {
+            "id": "",
+            "name": "",
+            "price": 0,
+            "salePrice": 0,
+            "stock": 0,
+            "images": []
+          },
+          {
+            "id": "",
+            "name": "",
+            "price": 0,
+            "salePrice": 0,
+            "stock": 0,
+            "images": [
+              {
+                "id": "",
+                "imageURL": ""
+              },
+              {
+                "id": "",
+                "imageURL": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
